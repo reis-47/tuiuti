@@ -9,9 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/ScnMenu.unity
     guid: 1e73517c5c1722c4fbce47e6b048c511
   - enabled: 1
-    path: Assets/Scenes/ScnBatalha.unity
-    guid: 8d5de95aac630b347b70e22616a8d1f5
-  - enabled: 1
     path: Assets/Scenes/ScnBatalharAR.unity
     guid: a74ffbe97dc647e4ab7a2b5f83a64a71
+  - enabled: 1
+    path: Assets/Terrain/DistantMountains/DistantMountains.unity
+    guid: faba9ad687f76514c8b60b54bc2c4627
   m_configObjects: {}
